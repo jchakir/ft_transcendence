@@ -24,16 +24,16 @@ docker compose up --build
 ## 🔷​ Frontend
 ### Pages
 - Login
-<img src="https://github.com/jchakir/ft_transcendence/blob/master/preview/login.png" />
+<img src="https://github.com/jchakir/ft_transcendence/blob/main/preview/login.png" />
 
 - Profile
-<img src="https://github.com/jchakir/ft_transcendence/blob/master/preview/profile.png" />
+<img src="https://github.com/jchakir/ft_transcendence/blob/main/preview/profile.png" />
 
 - Chat
-<img src="https://github.com/jchakir/ft_transcendence/blob/master/preview/chat.png" />
+<img src="https://github.com/jchakir/ft_transcendence/blob/main/preview/chat.png" />
 
 - Game
-<img src="https://github.com/jchakir/ft_transcendence/blob/master/preview/game.png" />
+<img src="https://github.com/jchakir/ft_transcendence/blob/main/preview/game.png" />
 
 ## 🔷​ Backend
 The server is responsible for providing necessary data (CRUD from the database ) on different endpoints and handles the game matchmaking system, broadcast messages on chat rooms and DM, live game coordinates, and more ...
